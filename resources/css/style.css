@@ -54,3 +54,10 @@ body{
 #img2{
   text-align: center;
 }
+
+
+.foot{
+  text-align: right;
+  color: gray;
+  font-size: 21px;
+}
